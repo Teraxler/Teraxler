@@ -35,7 +35,7 @@
 
 ###
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <a href="https://linkedin.com/in/Teraxler">
   <img src="./assets/linkedin-logo.svg">
