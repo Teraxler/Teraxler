@@ -7,8 +7,6 @@
 
 ###
 
-<br/>
-
 # 💫 About Me:
 
 - 👨‍💻 &nbsp; Front-End Developer
