@@ -21,6 +21,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=028dd1)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=f6df1c&textfill=323330)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=00bcff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=0081A3)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&fill=f34f29)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=npm&fill=cb3837)
 
