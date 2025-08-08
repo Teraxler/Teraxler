@@ -11,7 +11,7 @@
 
 - 👨‍💻 &nbsp; Front-End Developer
 - 🎓 &nbsp; Student of computer subject in university
-- 🎯 &nbsp; Learning Git & Github
+- 🎯 &nbsp; Learning React
 
 ###
 
