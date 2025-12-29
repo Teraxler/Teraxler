@@ -17,7 +17,15 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,git)](https://skillicons.dev)
+<div>
+  <img width="48px" height="48px" src="./assets/HTML.svg" />
+  <img width="48px" height="48px" src="./assets/CSS.svg" />
+  <img width="48px" height="48px" src="./assets/JavaScript.svg" />
+  <img width="48px" height="48px" src="./assets/TailwindCSS-Dark.svg" />
+  <img width="48px" height="48px" src="./assets/React-Dark.svg" />
+  <img width="48px" height="48px" src="./assets/Vite-Dark.svg" />
+  <img width="48px" height="48px" src="./assets/Git.svg" />
+</div>
 
 ###
 
@@ -34,12 +42,13 @@
 
 <a href="https://linkedin.com/in/Teraxler">
   <img src="./assets/linkedin-logo.svg">
+
 </a>
 <a href="https://t.me/Mahdi9_TR">
   <img src="./assets/telegram-logo.svg">
 </a>
 <a href="mailto:mahdi.akbari.tr@gmail.com">
-  <img src="./assets/gmail-logo.svg">
+  <img width="46px" height="46px" src="./assets/Gmail-Dark.svg">
 </a>
 
 ###
