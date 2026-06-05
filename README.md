@@ -44,7 +44,7 @@
   <img src="./assets/linkedin-logo.svg">
 
 </a>
-<a href="https://t.me/Mahdi9_TR">
+<a href="https://t.me/Mahdi2TR">
   <img src="./assets/telegram-logo.svg">
 </a>
 <a href="mailto:mahdi.akbari.tr@gmail.com">
