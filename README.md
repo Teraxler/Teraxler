@@ -1,54 +1,130 @@
+![black banner with title Teraxler and subtitle of frontend developer in center with white color](./assets/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&lines=Hi%2C+I'm+Mahdi+Akbari+(TERAXLER))](https://git.io/typing-svg)
+# Hi, I'm Mahdi Akbari (Teraxler)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+I build web applications with a focus on clean code, maintainable architecture, and software engineering best practices.
 
-<img align="center" src="./assets/pacman-contributions.svg">
+## Tech Stack
 
-###
+### Frontend:
 
-# 💫 About Me:
+<div style="display: flex; gap:8px;">
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="React Logo" width="48px" height="48px" src="./assets/React-Dark.svg" />
+    <span style="text-wrap:nowrap;">React</span>
+  </div>
 
-- 👨‍💻 &nbsp; Front-End Developer
-- 🎓 &nbsp; Student of computer subject in university
-- 🎯 &nbsp; Learning React
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Next.js Logo" width="48px" height="48px" src="./assets/NextJs.svg" />
+    <span style="text-wrap:nowrap;">Next.js</span>
+  </div>
 
-###
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Tailwind CSS Logo" width="48px" height="48px" src="./assets/TailwindCSS-Dark.svg" />
+    <span style="text-wrap:nowrap;">Tailwind CSS</span>
+  </div>
 
-# 💻 Tech Stack:
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="JavaScript Logo" width="48px" height="48px" src="./assets/JavaScript.svg" />
+    <span style="text-wrap:nowrap;">JavaScript</span>
+  </div>
 
-<div>
-  <img width="48px" height="48px" src="./assets/HTML.svg" />
-  <img width="48px" height="48px" src="./assets/CSS.svg" />
-  <img width="48px" height="48px" src="./assets/JavaScript.svg" />
-  <img width="48px" height="48px" src="./assets/TailwindCSS-Dark.svg" />
-  <img width="48px" height="48px" src="./assets/React-Dark.svg" />
-  <img width="48px" height="48px" src="./assets/Vite-Dark.svg" />
-  <img width="48px" height="48px" src="./assets/Git.svg" />
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="CSS Logo" width="48px" height="48px" src="./assets/CSS.svg" />
+    <span style="text-wrap:nowrap;">CSS</span>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="HTML Logo" width="48px" height="48px" src="./assets/HTML.svg" />
+    <span style="text-wrap:nowrap;">HTML</span>
+  </div>
+
 </div>
 
-###
+### State Managment & UI:
 
-# 📊 GitHub Stats:
+<div style="display:flex; gap:8px;">
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Redux Logo" width="48px" height="48px" src="./assets/Redux.svg" />
+    <span style="text-wrap:nowrap;">Redux</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Shadcn/ui Logo" style="border-radius: 10px;" width="48px" height="48px" src="./assets/shadcn-ui.png" />
+    <span style="text-wrap:nowrap;">Shadcn/ui</span>
+  </div>
+</div>
 
-<a href="https://github.com/teraxler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teraxler&show_icons=true&theme=light" alt="stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teraxler&theme=light" alt="stat">
-</a>
+### Tools:
 
-###
+<div style="display: flex; gap:8px;">
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Git Logo" width="48px" height="48px" src="./assets/Git.svg" />
+    <span style="text-wrap:nowrap;">Git</span>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
+    <img alt="Vite Logo" width="48px" height="48px" src="./assets/Vite-Light.svg" />
+    <span style="text-wrap:nowrap;">Vite</span>
+  </div>
+</div>
 
-# 🌐 Socials:
+## Featured Projects
 
-<a href="https://linkedin.com/in/Teraxler">
-  <img src="./assets/linkedin-logo.svg">
+### Coffee Shop Admin Dashboard
 
-</a>
-<a href="https://t.me/Mahdi2TR">
-  <img src="./assets/telegram-logo.svg">
-</a>
-<a href="mailto:mahdi.akbari.tr@gmail.com">
-  <img width="46px" height="46px" src="./assets/Gmail-Dark.svg">
-</a>
+A full-stack admin dashboard for managing coffee shop operations, built with Next.js, React, and Express. Focused on maintainable architecture and reusable components.
 
-###
+**Key Features**
+
+- Feature-based code organization
+
+- CRUD operations and data visualization
+
+- Form validation, error handling
+
+- Authentication and protected routes
+
+- REST API integration
+
+<br />
+
+**Tech Stack:** Next.js · React · Tailwind CSS · Express · SQL Server · Zod
+
+[View Repository](https://github.com/Teraxler/Admin-Panel) • [Live Demo](https://teraxler-admin-panel.vercel.app/)
+
+---
+
+### Advanced Todo-List
+
+A task management project focused on implementing application functionality and managing user interactions.
+
+**Key Features**
+
+- Implemented CRUD operations for todos
+
+- Supported image uploads for todo items
+
+- Added user authentication and protected routes
+
+<br />
+
+**Tech Stack:** Tailwind CSS · JavaScript · CSS · HTML
+
+[View Repository](https://github.com/Teraxler/Todo-list-website) • [Live Demo](https://teraxler.github.io/Todo-list-website/public/pages/login.html)
+
+## Connect with me
+
+<div style="display:flex; gap:5px">
+  <a href="https://linkedin.com/in/Teraxler">
+    <img alt="Linkedin logo" src="./assets/linkedin-logo.svg">
+  </a>
+  <a href="https://t.me/Mahdi2TR">
+    <img alt="Telegram Logo" src="./assets/telegram-logo.svg">
+  </a>
+  <a href="mailto:mahdi.akbari.tr@gmail.com">
+    <img alt="Gmail Logo" width="46px" height="46px" src="./assets/Gmail-Dark.svg">
+  </a>
+</div>
+
+<br />
+
+<img align="center" src="./assets/pacman-contributions.svg">
