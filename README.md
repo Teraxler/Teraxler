@@ -8,64 +8,15 @@ I build web applications with a focus on clean code, maintainable architecture, 
 
 ### Frontend:
 
-<div style="display: flex; gap:8px;">
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="React Logo" width="48px" height="48px" src="./assets/React-Dark.svg" />
-    <span style="text-wrap:nowrap;">React</span>
-  </div>
+[![React, Next.js, Tailwind CSS, JS, CSS, HTML](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,css,html&theme=light)](https://skillicons.dev)
 
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Next.js Logo" width="48px" height="48px" src="./assets/NextJs.svg" />
-    <span style="text-wrap:nowrap;">Next.js</span>
-  </div>
+### State Managment:
 
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Tailwind CSS Logo" width="48px" height="48px" src="./assets/TailwindCSS-Dark.svg" />
-    <span style="text-wrap:nowrap;">Tailwind CSS</span>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="JavaScript Logo" width="48px" height="48px" src="./assets/JavaScript.svg" />
-    <span style="text-wrap:nowrap;">JavaScript</span>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="CSS Logo" width="48px" height="48px" src="./assets/CSS.svg" />
-    <span style="text-wrap:nowrap;">CSS</span>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="HTML Logo" width="48px" height="48px" src="./assets/HTML.svg" />
-    <span style="text-wrap:nowrap;">HTML</span>
-  </div>
-
-</div>
-
-### State Managment & UI:
-
-<div style="display:flex; gap:8px;">
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Redux Logo" width="48px" height="48px" src="./assets/Redux.svg" />
-    <span style="text-wrap:nowrap;">Redux</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Shadcn/ui Logo" style="border-radius: 10px;" width="48px" height="48px" src="./assets/shadcn-ui.png" />
-    <span style="text-wrap:nowrap;">Shadcn/ui</span>
-  </div>
-</div>
+[![Redux](https://skillicons.dev/icons?i=redux&theme=light)](https://skillicons.dev)
 
 ### Tools:
 
-<div style="display: flex; gap:8px;">
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Git Logo" width="48px" height="48px" src="./assets/Git.svg" />
-    <span style="text-wrap:nowrap;">Git</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; gap:5px">
-    <img alt="Vite Logo" width="48px" height="48px" src="./assets/Vite-Light.svg" />
-    <span style="text-wrap:nowrap;">Vite</span>
-  </div>
-</div>
+[![Git, Npm, Vite](https://skillicons.dev/icons?i=git,npm,vite&theme=light)](https://skillicons.dev)
 
 ## Featured Projects
 
@@ -113,15 +64,15 @@ A task management project focused on implementing application functionality and 
 
 ## Connect with me
 
-<div style="display:flex; gap:5px">
-  <a href="https://linkedin.com/in/Teraxler">
-    <img alt="Linkedin logo" src="./assets/linkedin-logo.svg">
-  </a>
+<div>
   <a href="https://t.me/Mahdi2TR">
-    <img alt="Telegram Logo" src="./assets/telegram-logo.svg">
+    <img alt="Telegram" src="./assets/telegram-logo.svg">
+  </a>
+  <a href="https://linkedin.com/in/Teraxler">
+    <img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=light">
   </a>
   <a href="mailto:mahdi.akbari.tr@gmail.com">
-    <img alt="Gmail Logo" width="46px" height="46px" src="./assets/Gmail-Dark.svg">
+    <img alt="Gmail" width="46px" height="46px" src="https://skillicons.dev/icons?i=gmail&theme=light">
   </a>
 </div>
 
